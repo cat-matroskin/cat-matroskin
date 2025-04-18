@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cat-matroskin
 - 👀 I’m interested in SAP Development
-- 📫 How to reach me: e-mail iurii@pecaso.ru
+- 📫 How to reach me: e-mail iurii@pecasol.com
 
 <!---
 cat-matroskin/cat-matroskin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
