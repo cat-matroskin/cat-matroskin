@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cat-matroskin
-- 👀 I’m interested in crypto currency and blockchain operations
-- 🌱 I’m currently learning NFT
-- 💞️ I’m looking to collaborate on creating NFT marketpalce
+- 👀 I’m interested in SAP Development
 - 📫 How to reach me: e-mail iurii@pecaso.ru
 
 <!---
